@@ -1,1 +1,3 @@
 運ちっち
+git add
+git commit
