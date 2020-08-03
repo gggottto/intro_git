@@ -1,3 +1,4 @@
 運ちっち
 git add
 git commit
+git rm
